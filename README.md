@@ -39,3 +39,9 @@ Zeros 2.0 is a powerful and customizable Discord moderation bot, designed to hel
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/zeros-moderation-bot.git
+
+Install dependencies:
+
+npm install
+TOKEN=your-bot-token-here
+npm start
